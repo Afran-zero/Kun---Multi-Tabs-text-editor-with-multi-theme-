@@ -1,0 +1,40 @@
+{
+  "name": "🌑 Noir Minimal",
+  "description": "Sleek dark theme with glass effects and high contrast",
+  "colors": {
+    "window_bg": "rgba(18, 18, 22, 0.98)",
+    "editor_bg": "rgba(22, 22, 28, 0.95)",
+    "editor_fg": "#e8eaed",
+    "tab_bar_bg": "rgba(28, 28, 35, 0.9)",
+    "tab_active_bg": "rgba(50, 50, 62, 0.95)",
+    "tab_inactive_bg": "rgba(28, 28, 35, 0.75)",
+    "tab_text": "#c0c2c5",
+    "tab_text_active": "#ffffff",
+    "status_bar_bg": "rgba(15, 15, 18, 0.95)",
+    "status_bar_fg": "#b8bac0",
+    "menu_bg": "rgba(28, 28, 35, 0.98)",
+    "menu_fg": "#e8eaed",
+    "menu_hover_bg": "rgba(50, 50, 62, 0.85)",
+    "button_bg": "rgba(45, 45, 58, 0.8)",
+    "button_fg": "#e8eaed",
+    "button_hover_bg": "rgba(65, 65, 82, 0.9)",
+    "highlight": "rgba(85, 85, 105, 0.65)",
+    "selection_bg": "rgba(80, 140, 200, 0.45)",
+    "selection_fg": "#ffffff",
+    "spell_error": "#ff5555",
+    "border": "rgba(70, 70, 85, 0.6)",
+    "glass_shine": "rgba(255, 255, 255, 0.08)",
+    "shadow": "rgba(0, 0, 0, 0.4)",
+    "accent": "#6699ff",
+    "accent_hover": "#88bbff"
+  },
+  "font": {
+    "family": "Consolas",
+    "size": 11
+  },
+  "effects": {
+    "glass": true,
+    "transparency": 0.95,
+    "rounded_corners": true
+  }
+}

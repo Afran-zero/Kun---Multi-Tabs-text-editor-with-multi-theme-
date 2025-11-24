@@ -1,0 +1,39 @@
+{
+  "name": "🎮 PixelPop Retro",
+  "description": "Vibrant cyberpunk theme with neon colors and 80s vibe",
+  "colors": {
+    "window_bg": "#1a0a2e",
+    "editor_bg": "#16213e",
+    "editor_fg": "#00ff88",
+    "tab_bar_bg": "#1a0a2e",
+    "tab_active_bg": "#e94560",
+    "tab_inactive_bg": "#0f3460",
+    "tab_text": "#00d9ff",
+    "tab_text_active": "#ffffff",
+    "status_bar_bg": "#0a0a1e",
+    "status_bar_fg": "#00d9ff",
+    "menu_bg": "#1a0a2e",
+    "menu_fg": "#00ff88",
+    "menu_hover_bg": "#0f3460",
+    "button_bg": "#e94560",
+    "button_fg": "#ffffff",
+    "button_hover_bg": "#ff6b8a",
+    "highlight": "#00d9ff",
+    "selection_bg": "#e94560",
+    "selection_fg": "#ffffff",
+    "spell_error": "#ff3366",
+    "border": "#00d9ff",
+    "accent": "#00ff88",
+    "accent_hover": "#00ffaa",
+    "glass_shine": "rgba(0, 217, 255, 0.15)"
+  },
+  "font": {
+    "family": "Courier New",
+    "size": 11
+  },
+  "effects": {
+    "glass": false,
+    "transparency": 1.0,
+    "rounded_corners": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "🌸 CuteBlush",
+  "description": "Soft pastel theme with gentle colors and cozy feel",
+  "colors": {
+    "window_bg": "#fff0f7",
+    "editor_bg": "#ffffff",
+    "editor_fg": "#4a3545",
+    "tab_bar_bg": "#ffe4f2",
+    "tab_active_bg": "#ffc2e0",
+    "tab_inactive_bg": "#fff0f7",
+    "tab_text": "#9b7a8f",
+    "tab_text_active": "#4a3545",
+    "status_bar_bg": "#ffe4f2",
+    "status_bar_fg": "#7a5f75",
+    "menu_bg": "#fff0f7",
+    "menu_fg": "#4a3545",
+    "menu_hover_bg": "#ffe4f2",
+    "button_bg": "#ffc2e0",
+    "button_fg": "#4a3545",
+    "button_hover_bg": "#ffaad5",
+    "highlight": "#ffaad5",
+    "selection_bg": "#ffc2e0",
+    "selection_fg": "#4a3545",
+    "spell_error": "#ff5588",
+    "border": "#ffc2e0",
+    "accent": "#ff80bf",
+    "accent_hover": "#ff99cc",
+    "glass_shine": "rgba(255, 194, 224, 0.2)"
+  },
+  "font": {
+    "family": "Segoe UI",
+    "size": 11
+  },
+  "effects": {
+    "glass": false,
+    "transparency": 1.0,
+    "rounded_corners": true
+  }
+}
