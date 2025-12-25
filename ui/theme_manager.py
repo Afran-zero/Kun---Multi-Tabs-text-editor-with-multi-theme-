@@ -83,8 +83,7 @@ class ThemeManager:
                 border-radius: {'6px' if has_glass else '2px'};
                 selection-background-color: {colors.get('selection_bg', '#404040')};
                 selection-color: {colors.get('selection_fg', '#ffffff')};
-                font-family: {theme.get('font', {}).get('family', 'Consolas')};
-                font-size: {theme.get('font', {}).get('size', 11)}pt;
+                /* Do not force font here so individual editor widgets can set fonts via setFont(). */
                 padding: {'4px' if has_glass else '2px'};
             }}
             
