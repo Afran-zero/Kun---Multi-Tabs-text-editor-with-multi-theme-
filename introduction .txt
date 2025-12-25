@@ -1,0 +1,71 @@
+
+
+Hello ! My Name is Kaif afran khan , 
+Student ID is 2222134642g5
+Course : cse323
+Faculty : SSI
+as 
+Project :  Multi tab - multi theme - text editor .
+*******************************************************************************************************************************************************************
+ *Key Features*
+                                                                                                                          Core Editing
+
+    Multi-Tab Interface - Work on multiple documents simultaneously with easy tab management
+    Smart Tab Renaming - Double-click or press F2 to rename tabs without affecting file names
+    Drag & Drop Support - Simply drop .txt files into the editor to open them
+    Auto-Save & Session Restore - Never lose your work; automatically restores your previous session
+    Undo/Redo - Full undo/redo support with Ctrl+Z and Ctrl+Y
+
+ Visual Themes
+
+Choose from three beautifully crafted themes:
+
+    🌑 Noir Minimal - Sleek dark theme with glass effects and high contrast
+    🎮 PixelPop Retro - Vibrant cyberpunk theme with neon colors and 80s vibe
+    🌸 CuteBlush - Soft pastel theme with gentle colors and cozy feel
+
+Switch themes instantly from the View > Theme menu with live preview and descriptions.
+🔍 Search & Replace
+
+    Inline Find Widget - Press Ctrl+F for quick search with yellow highlighting
+    Advanced Find & Replace - Press Ctrl+H for full find/replace dialog
+    Match Options - Case sensitive, whole words, and wrap around support
+    Navigation - Jump between matches with Previous/Next buttonsede
+    Replace All - Replace all occurrences with a single click
+
+📊 Real-Time Statistics
+
+Live statistics displayed in the status bar:
+
+    Word Count - Real-time word counting
+    Character Count - With/without spaces (click to toggle)
+    Line & Column - Current cursor position (Ln X, Col Y)
+    File Path - Full path with tooltip for long paths
+    Encoding - UTF-8 encoding indicator
+
+✍️ Font & Formatting
+
+Comprehensive font customization dialog (Ctrl+Shift+F):
+
+    10 Font Families - Consolas, Courier New, Source Code Pro, Fira Code, JetBrains Mono, Arial, Segoe UI, Times New Roman, Georgia, Verdana
+    Live Preview - See changes as you adjust settings
+    Quick Size Buttons - Instant access to common sizes (10-18pt)
+    Text Styles - Bold, Italic, Underline with Ctrl+B, Ctrl+I, Ctrl+U
+    Color Presets - 8 pre-defined colors plus custom color picker
+    Reset Option - One-click reset to defaults
+
+📋 File Management
+
+    New, Open, Save, Save As - Standard file operations with keyboard shortcuts
+    Recent Files - Access your last 15 opened files quickly
+    Smart Save As - Uses custom tab name as default filename
+    Multiple File Open - Select multiple files to open at once
+    File Type Filter - .txt files and all files support
+
+🔤 Additional Features
+
+    Line Numbers - Toggle line numbers on/off (View > Toggle Line Numbers)
+    Spell Checking - Basic spell checking (toggle in Edit menu)
+    Fullscreen Mode - Distraction-free editing with F11
+    Status Bar Toggle - Hide/show status bar for more space
+    Quick Font Size Menu - Instant size changes (8-24pt)
