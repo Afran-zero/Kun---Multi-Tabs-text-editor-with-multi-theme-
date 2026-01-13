@@ -1,0 +1,45 @@
+{
+  "recent_files": [
+    "X:/Kun/adam.txt",
+    "X:/Kun/gerbish.txt",
+    "X:/Kun/introduction .txt",
+    "X:/Kun/requirements.txt",
+    "X:/Kun/wiki_1.txt"
+  ],
+  "theme": "pixelpop",
+  "auto_save": false,
+  "auto_save_interval": 60,
+  "restore_session": true,
+  "show_line_numbers": false,
+  "spell_check_enabled": true,
+  "char_count_mode": "with_spaces",
+  "last_session": {
+    "tabs": [
+      {
+        "file_path": "X:/Kun/introduction .txt",
+        "content": null,
+        "custom_name": "introductioasxn .txt"
+      },
+      {
+        "file_path": "X:/Kun/gerbish.txt",
+        "content": null,
+        "custom_name": null
+      },
+      {
+        "file_path": null,
+        "content": "",
+        "custom_name": null
+      },
+      {
+        "file_path": "X:/Kun/adam.txt",
+        "content": null,
+        "custom_name": null
+      },
+      {
+        "file_path": null,
+        "content": "",
+        "custom_name": null
+      }
+    ]
+  }
+}

@@ -34,14 +34,8 @@ venv.bak/
 *.swo
 *~
 
-# OS
-.DS_Store
-Thumbs.db
-desktop.ini
 
-# Kun specific
-config/kun_config.json
-*.txt.bak
+
 
 # Logs
 *.log
